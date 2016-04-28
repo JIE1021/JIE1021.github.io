@@ -1,7 +1,7 @@
 html {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: 'Orbitron', sans-serif;
-  background-color: #3DD1EF;
+  background-color: #A0E8F7;
 }
  h1 {
 color:white;
@@ -15,15 +15,4 @@ p, li {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
-}
-img {
-  display: block;
-  margin: 0 auto;
-}
-body {
-  width: 1400px;
-  margin: 0 auto;
-  background-color: #A0E8F7;
-  padding: 0 18px 0 18px;
-  border: 2px solid purple;
 }
